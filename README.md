@@ -1,3 +1,4 @@
+
 # ERP-CRM Database Project (SQL Server)
 
 ## Project Overview
@@ -162,3 +163,6 @@ This project demonstrates **job automation**, including:
 1. Create database:
    ```sql
    CREATE DATABASE [Erp-Crm];
+=======
+# DatabaseRdbms
+>>>>>>> cdb2f1b0c48754ae4311312b427f5d6ed9a807b4
