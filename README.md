@@ -159,10 +159,5 @@ This project demonstrates **job automation**, including:
 - Microsoft SQL Server (2019 or higher recommended)
 - SQL Server Management Studio (SSMS)
 
-### Steps
-1. Create database:
-   ```sql
-   CREATE DATABASE [Erp-Crm];
-=======
-# DatabaseRdbms
->>>>>>> cdb2f1b0c48754ae4311312b427f5d6ed9a807b4
+
+
